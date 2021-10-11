@@ -1,0 +1,13 @@
+.sector {
+  text-align: center;
+}
+
+.label {
+  font-size: 20px;
+}
+
+.input {
+  padding: 5px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
